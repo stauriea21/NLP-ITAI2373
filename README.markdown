@@ -1,4 +1,4 @@
-# NLP-ITAI2373 Course Repository
+no# NLP-ITAI2373 Course Repository
 
 This repository contains landmarks and milestones of my Natural Language Processing (NLP) Journey! ASpecial thanks to Professor Patricia McManus for her invaluable guidance and support throughout the course.
 
@@ -51,5 +51,5 @@ NLP-ITAI2373/
 ## Contact
 
 For questions or collaboration opportunities, contact:  
-- **Faiza Abdullah**: faiza.abdullah79@icloud.com
+- **ShaRise Griggs stauriea21@gmail.com
 
